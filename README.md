@@ -1,7 +1,6 @@
 # SALARY-DASHBOARD-USING-EXCEL
 # Excel Salary Dashboard
-
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](https://github.com/user-attachments/assets/04b1d5f5-58d5-4c9f-98ab-da8c220f6eaf)
 
 ## Introduction
 
