@@ -36,17 +36,15 @@ The dataset used for this project contains real-world data science job informati
 #### 📊 Data Science Job Salaries - Bar Chart
 <img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/341bb96e-537b-4bae-ac49-764b14c55ca0" />
 
-<img src=<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/341bb96e-537b-4bae-ac49-764b14c55ca0" />
-
-
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
+![1_Salary_Dashboard_Country_Map (1)](https://github.com/user-attachments/assets/fb22f01e-21fd-404d-96c4-9fcb737ba46f)
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -77,11 +75,15 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="265" height="220" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/8109b331-c959-47f0-80a3-3f3783776939" />
+
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img width="1148" height="1214" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/7aff5525-b498-4eec-b950-bfee7f2fe781" />
+
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -94,11 +96,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img width="195" height="119" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/abba6e3d-1656-4e63-9d5e-940b77529b97" />
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img width="942" height="1212" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/d2dc9309-a9c6-46c4-87a2-e9c078075bae" />
+
 
 ### ❎ Data Validation
 
@@ -109,7 +113,10 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/583dcf30-d9ef-4922-b9c0-cc408ebbc00a)
+
+
+
 
 ## Conclusion
 
